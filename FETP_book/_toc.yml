@@ -23,12 +23,12 @@ parts:
     chapters:
     - file: Unit_2.2
     - file: Unit_2.2_Case_study_Assignment_4
-    - file: Unit_2.2_Compile_and_Analyze_Data
-    - file: Unit_2.2_Case_study_Assignment_5
 
   - caption: Unit 2.3
     chapters:
     - file: Unit_2.3
+    - file: Unit_2.3_Compile_and_Analyze_Data
+    - file: Unit_2.3_Case_study_Assignment_5
     - file: Unit_2.3_Case_study_Assignment_6
     - file: Unit_2.3_Case_study_Assignment_X
 
