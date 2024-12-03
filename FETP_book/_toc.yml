@@ -30,7 +30,6 @@ parts:
     - file: Unit_2.3
     - file: Unit_2.3_Case_study_Assignment_5
     - file: Unit_2.3_Case_study_Assignment_6
-    - file: Unit_2.3_Case_study_Assignment_X
 
   - caption: UNIT 3 - USING INFORMATICS TO DESIGN AND PLAN
     chapters:
